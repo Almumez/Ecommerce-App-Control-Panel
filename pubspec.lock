@@ -4,6 +4,7 @@ packages:
   animated_splash_screen:
     dependency: "direct main"
     description:
+    
       name: animated_splash_screen
       url: "https://pub.dartlang.org"
     source: hosted

@@ -18,6 +18,7 @@ class Admin_Delete extends StatefulWidget {
   Admin_Deletestat createState() => Admin_Deletestat();
 }
 
+
 class Admin_Deletestat extends State<Admin_Delete> {
   final GlobalKey<ScaffoldState> scaffledkey=GlobalKey<ScaffoldState>();
   var name;
